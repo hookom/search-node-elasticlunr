@@ -1,0 +1,17 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --max-old-space-size=8192 server.js",
+    "index": "node --max-old-space-size=12288 createIndex.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticlunr": "^0.9.5",
+    "express": "^4.16.3",
+    "line-by-line": "^0.1.6"
+  }
+}
