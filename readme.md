@@ -9,3 +9,6 @@
 
 ## Data Index
 [Pre-generated Index for above dataset](https://drive.google.com/open?id=1GyJM4xfnEQiDLCGXni3bWfEdBw6Mqy9g)
+
+## Example Page
+[Search Page](file:///absolute/path/to/this/directory/frontend/index.html)
