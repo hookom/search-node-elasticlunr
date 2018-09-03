@@ -1,5 +1,5 @@
 let timeout;
-const wait = 1000;
+const wait = 300;
 const input = document.getElementById("q");
 
 input.addEventListener('keyup', function() {
